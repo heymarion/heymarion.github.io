@@ -143,6 +143,10 @@ section address {
     text-decoration: none;
 }
 
+#sidebar {
+	background: #0F0F0F;
+}
+
 .more {
     margin-left: 80%;
 }
