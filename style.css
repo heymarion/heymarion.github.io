@@ -147,6 +147,7 @@ section address {
 	background: #ffefc4;
 	   padding-left: 50px;
     padding-right: 5%;
+    height: 100%;
 }
 
 #sidebar a {
