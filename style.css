@@ -144,7 +144,16 @@ section address {
 }
 
 #sidebar {
-	background: #0F0F0F;
+	background: #ffefc4;
+	   padding-left: 50px;
+    padding-right: 20%;
+}
+
+#sidebar a {
+	font-size: 12px;
+    font-family: Verdana, Arial, SunSans-Regular, Sans-Serif;
+    color:#564b47;  
+    font-weight: bold;
 }
 
 .more {
