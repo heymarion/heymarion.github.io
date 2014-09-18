@@ -146,7 +146,6 @@ section address {
 #sidebar {
 	background: #ffefc4;
 	   padding-left: 50px;
-    padding-right: 5%;
     height: 100%;
 }
 
@@ -155,6 +154,11 @@ section address {
     font-family: Georgia, Verdana, Arial, SunSans-Regular, Sans-Serif;
     color:#564b47;  
     font-weight: bold;
+}
+
+#sidebar h3 {
+	background: #ccbf9c;
+	padding: 10px;
 }
 
 a {
