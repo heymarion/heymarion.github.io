@@ -157,7 +157,8 @@ section address {
 
 #sidebar h3 {
 	background: #ccbf9c;
-	width: 200px;
+	fixed-width: 200px;
+	padding: 10px;
 }
 
 a {
