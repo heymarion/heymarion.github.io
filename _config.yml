@@ -1,0 +1,29 @@
+# Blog name
+name: "heymarion ~"
+
+# Blog description
+description: "marion. hi :)"
+
+#author
+author: Marion
+
+#email
+author_email: "marion@heymarion.me"
+
+#directory
+category_dir: /
+
+#URL
+url: "http://heymarion.me"
+
+#markdown for html5
+markdown: rdiscount
+
+#number of articles on front page
+paginate: 10
+
+#permalink style
+permalink: pretty
+
+#coding coloring
+highlighter: pygments
