@@ -17,8 +17,8 @@ body>header h4 {
 }
 
 h1,h2,h3,h4 {
-    width: 100%;
-    min-width: 840px;
+    /*width: 100%;
+    min-width: 840px; */
 }
 
 hr {
@@ -156,8 +156,8 @@ section address {
 }
 
 #sidebar h3 {
-/*	background: #ccbf9c; */
-	fixed-width: 200px;
+	background: #ccbf9c; 
+	width: 200px;
 	padding: 10px;
 }
 
