@@ -8,14 +8,15 @@ relative_permalinks: true
 
 # Setup
 title:            Marion
-tagline:          "hi, i'm marion"
-description:      'Just a place for me to organize my thoughts, write, and code. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+tagline:          'everything and anything'
+description:      'Just a place for me to organize my thoughts.'
 url:              http://www.heymarion.me
 baseurl:          /
 
 author:
   name:           'Marion Xu'
   url:            ''
+  email:	      marionxu1@gmail.com
 
 paginate:         5
 
