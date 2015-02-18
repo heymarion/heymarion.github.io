@@ -12,8 +12,8 @@ title: Home
       </a>
     </h1>
 
-    <span class="post-date" style="margin-bottom: 0px;">{{ post.date | date_to_string }}       
-      | <a href="{{ post.url }}#disqus_thread"></a> </span>
+    <span class="post-date">{{ post.date | date_to_string }}       
+      | <a href="{{ post.url }}#disqus_thread" data-disqus-identifier="{{ post.url }}"></a> </span>
 
     {{ post.content }}
   </div>
