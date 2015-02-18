@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            Marion
 tagline:          'everything and anything'
-description:      'Just a place for me to organize my thoughts.'
+description:      "Hi, I'm marion! Just a place for me to organize my thoughts.""
 url:              http://www.heymarion.me
 baseurl:          /
 
