@@ -106,7 +106,7 @@ h4, h5, h6 {
 
 /* Body text */
 p {
-  margin-top: 0;
+  margin-top: 0rem;
   margin-bottom: 1rem;
 }
 
@@ -273,7 +273,8 @@ tbody tr:nth-child(odd) th {
  */
 
 .message {
-  margin-bottom: 1rem;
+  margin-bottom: 0rem;
+  margin-top: -1rem;
   padding: 1rem;
   color: #717171;
  /* background-color: #f9f9f9; */
@@ -331,7 +332,7 @@ tbody tr:nth-child(odd) th {
 
 .page,
 .post {
-  margin-bottom: 4em;
+  margin-bottom: 2em;
 }
 
 /* Blog post or page title */
@@ -353,11 +354,21 @@ tbody tr:nth-child(odd) th {
   color: #9a9a9a;
 }
 
+/* align prev/next posts */
+.alignleft {
+  float: left;
+}
+.alignright {
+  float: right;
+}
+
+
 /* Related posts */
 .related {
   padding-top: 2rem;
   padding-bottom: 2rem;
   border-top: 1px solid #eee;
+  text-align: center;
 }
 .related-posts {
   padding-left: 0;
