@@ -4,11 +4,11 @@
  <title>Marion</title>
  <link href="http://www.heymarion.me/atom.xml" rel="self"/>
  <link href="http://www.heymarion.me/"/>
- <updated>2015-02-17T23:10:21-05:00</updated>
+ <updated>2015-02-18T00:51:21-05:00</updated>
  <id>http://www.heymarion.me</id>
  <author>
    <name>Marion Xu</name>
-   <email>marionxu1@gmail.com</email>
+   <email>marion@heymarion.me</email>
  </author>
 
  
@@ -38,17 +38,9 @@
 &lt;dl&gt;
   &lt;dt&gt;HyperText Markup Language (HTML)&lt;/dt&gt;
   &lt;dd&gt;The language used to describe and define the content of a Web page&lt;/dd&gt;
-
-  &lt;dt&gt;Cascading Style Sheets (CSS)&lt;/dt&gt;
-  &lt;dd&gt;Used to describe the appearance of Web content&lt;/dd&gt;
-
-  &lt;dt&gt;JavaScript (JS)&lt;/dt&gt;
-  &lt;dd&gt;The programming language used to build advanced Web sites and applications&lt;/dd&gt;
 &lt;/dl&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://placehold.it/800x400&quot; alt=&quot;placeholder&quot; title=&quot;Large example image&quot;&gt;
-&lt;img src=&quot;http://placehold.it/400x200&quot; alt=&quot;placeholder&quot; title=&quot;Medium example image&quot;&gt;
-&lt;img src=&quot;http://placehold.it/200x200&quot; alt=&quot;placeholder&quot; title=&quot;Small example image&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://placehold.it/200x200&quot; alt=&quot;placeholder&quot; title=&quot;Small example image&quot;&gt;&lt;/p&gt;
 
 &lt;h3&gt;Tables&lt;/h3&gt;
 
